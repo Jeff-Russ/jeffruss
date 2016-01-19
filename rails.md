@@ -1,7 +1,6 @@
-
 <div id="page"      style="display: none;"><!-- Rails --></div>
 <div id='home-url'  style="display: none;"><!-- http://www.jeffruss.com --></div>
-<div id='logo-url'  style="display: none;"><!-- https://s3.amazonaws.com/shared-img-res/JR%20logo/JR_20px_wide.png --></div>
+<div id='logo-url'  style="display: none;"><!-- https://s3.amazonaws.com/jeffruss/img/JR_20px_wide.png --></div>
 
 <div class="catergory-menu" id='HowTo'  style="display: none;"><!--  --></div>
 <div class="catergory-menu" id='Resume' style="display: none;"><!--  --></div>
