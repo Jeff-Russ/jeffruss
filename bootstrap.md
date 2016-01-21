@@ -1,7 +1,7 @@
 
 <div id="page"      style="display: none;"><!-- Bootstrap --></div>
 <div id='home-url'  style="display: none;"><!-- http://www.jeffruss.com --></div>
-<div id='logo-url'  style="display: none;"><!-- https://s3.amazonaws.com/jeffruss/img/JR_20px_wide.png --></div>
+<div id='logo-url'  style="display: none;"><!-- https://s3.amazonaws.com/jeffruss.com/img/JR_20px_wide.png --></div>
 
 <div class="catergory-menu" id='HowTo'  style="display: none;"><!--  --></div>
 <div class="catergory-menu" id='Resume' style="display: none;"><!--  --></div>
@@ -10,15 +10,13 @@
 <div class="page-menu" id='Boostrap' style="display: none;"><!--http://www.jeffruss.com/?docs=bootstrap--></div>
 <div class="page-menu" id='Rails'    style="display: none;"><!--http://www.jeffruss.com/?docs=rails--></div>
 
-<!-- __________________________________________________________________ -->
+<div class="section" id='Grids'><!--#Grids--></div> 
 
 # How-To: Bootstrap
 
 ----------------------------------------------------------------------------
 
 ## Bootstrap Basics
-
-<div class="section" id='Grids'><!--#Grids--></div> 
 
 ### The Grid System
 
@@ -2659,15 +2657,7 @@ can use `.modal-lg` along with `.modal-dialog` for a larger window. You can
 use `.modal-sm` along with `.modal-dialog` for a larger window.
 
 
-
 <small><hr></small>
 <a href='http://www.jeffruss.com' style='color:#FFFFEE'>
-<small>    © Copyright 2016 Jeffrey Russ</small><br><br><br>
+	<small>© Copyright 2016 Jeffrey Russ</small><br><br><br>
 </a>
-
-
-
-
-
-
-

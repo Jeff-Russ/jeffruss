@@ -1,21 +1,14 @@
-
 </head>
 <body class="jr-darker-body ">
-	<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NXV5XD"
-	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-	'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-	})(window,document,'script','dataLayer','GTM-NXV5XD');</script>
 	<nav id='topbar' class='topbar fixed printhide'></nav>
 	<div class="printhide">
-		<button class="topbar-btn LL-9 jr-img printhide" data-link='/?pages=home'></button>
+		<button class="topbar-btn LL-9 jr-img printhide" data-link='/?pages=home'>
+		</button>
 		<a class="printhide" href="/?pages=about">
 			<button class='topbar-btn printhide' 
-				style=" color:#FFFFCB!important; border-color:#50B7DD!important; width:12%!important;
-				right: 16%!important;">
-			Cover Letter</button>
+				style=" color:#FFFFCB!important; border-color:#50B7DD!important; 
+							width:12%!important;right: 16%!important;">
+				Cover Letter</button>
 		</a>
 		<button class="topbar-btn printhide" data-link='/?pages=contact'
 		style="right:5%!important; width:8%!important;">
@@ -36,12 +29,15 @@
 							class="btn btn-info btn-ghost btn-sm printhide" >
 						Print
 					</button>
-					<a class='printhide' href='https://s3.amazonaws.com/jeffruss/pdf/jeff_russ_resume.pdf' download>
-						<button type='button' class="btn btn-success btn-ghost btn-sm printhide">
+					<a href='https://s3.amazonaws.com/jeffruss.com/pdf/jeff_russ_resume.pdf' 
+							class='printhide' download>
+						<button type='button' 
+							class="btn btn-success btn-ghost btn-sm printhide">
 							Download
 						</button>
 					</a><br>
-					<a class='printhide' href="jeffreylynnrusss@gmail.com" >jeffreylynnrusss@gmail.com</a>
+					<a class='printhide' href="jeffreylynnrusss@gmail.com">
+						jeffreylynnrusss@gmail.com</a>
 					<p>732-207-3345</p>
 				</div>
 			</div><div class="row"></div><br>
@@ -51,11 +47,13 @@
 					<h3 style="display:inline">Profile</h3>
 				</div>
 				<div class="col-xs-9 col-xs-offset-1">
-					<h5> Passionate, self-motivated software developer constantly in search of a 
-					new challenge</h5>
+					<h5> Passionate, self-motivated software developer constantly in 
+					search of a new challenge</h5>
 				</div>
 			</div>
-			<div class="row"> <div class="col-xs-10 col-xs-offset-0 col-md-offset-1"><hr></div></div>
+			<div class="row"> <div class="col-xs-10 col-xs-offset-0 col-md-offset-1">
+				<hr></div>
+			</div>
 			<div class="row">
 				<div class="col-xs-2 col-sm-1  col-xs-offset-0 col-md-offset-1">
 					<h3  style="display:inline">Skills</h3>
@@ -111,7 +109,7 @@
 				<div class="col-xs-3">
 					<p>- VST/AU JUCE C++<br>
 					- Extensions to JUCE:<br>
-					&nbsp;&nbsp;github.com/Jeff-Russ</p>
+					&nbsp;&nbsp;github.com/jeffruss</p>
 				</div>
 			</div>
 			<div class="row"> <div class="col-xs-10 col-md-offset-1"><hr></div></div>
@@ -121,12 +119,13 @@
 					<h3 style="display:inline">Training</h3>
 				</div>
 				<div class="col-xs-9 col-md-7 col-xs-offset-1">
-					<p>Mostly self-taught with training in Java from Amplify MOOC, Web 
-					development with Rob Dey, audio software design from Rutgers University, 
-					and C++ certification from The C++ Institute</p>
+					<p>Mostly self-taught with training in Java from Amplify MOOC, 
+					Web development with Rob Dey, audio software design from Rutgers 
+					University, and C++ certification from The C++ Institute</p>
 				</div>
 			</div>
-			<div class="row"> <div class="col-xs-10 col-md-offset-1"><hr></div></div>
+			<div class="row"> <div class="col-xs-10 col-md-offset-1"><hr></div>
+			</div>
 			<div class="row">
 				<br>
 				<div class="col-xs-2 col-sm-1  col-xs-offset-0 col-md-offset-1">
@@ -141,21 +140,9 @@
 			</div>
 		</div>
 	</div>
-	<div class="container printhide" style=" padding-left:5%;padding-right:5%;padding-bottom:1%; margin:3%;">
+	<div class="container printhide" 
+		style=" padding-left:5%;padding-right:5%;padding-bottom:1%; margin:3%;">
 		<a style="color:#FFFFEE" href="/?pages=home">
-		<hr><small>    © Copyright 2016 Jeffrey Russ.</small><br><br></a>
+		<hr><small>© Copyright 2016 Jeffrey Russ.</small><br><br></a>
 	</div>
 </body>
-
-
-
-
-
-
-
-
-
-
-
-
-
